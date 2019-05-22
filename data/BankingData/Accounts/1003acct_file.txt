@@ -1,0 +1,10 @@
+<Account File>
+1
+1003
+2017, 3, 20
+ 
+<Activity Start 5>
+2017, 2, 17, DEPOSIT, 50
+2017, 2, 17, WITHDRAWAL, 25
+2017, 3, 23, WITHDRAWAL, 16
+2017, 3, 23, TRANSACTION, 4.85

@@ -1,0 +1,11 @@
+<Account File>
+1
+1008
+2017, 3, 24
+ 
+<Activity Start 5>
+2017, 3, 24, DEPOSIT, 15
+2017, 3, 24, WITHDRAWAL, 25
+2017, 3, 24, FEE, 36
+2017, 3, 24, DECLINE, 5
+2017, 3, 24, DEPOSIT, 100.00
